@@ -5,7 +5,7 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m7mdalwaked762&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="250" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m7mdalwaked762&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=dracula&hide_border=false" height="450" alt="languages graph"  />
 </div>
 
 ###
@@ -38,21 +38,13 @@
 
 ###
 
-<h2 align="left">Lets Connect !</h2>
+<h1 align="left">Lets Connect !</h1>
 
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="50" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="62" height="50" alt="instagram logo"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m7mdalwaked762/m7mdalwaked762/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m7mdalwaked762/m7mdalwaked762/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/m7mdalwaked762/m7mdalwaked762/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
